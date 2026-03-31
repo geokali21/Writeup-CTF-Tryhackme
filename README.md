@@ -1,1 +1,1 @@
-ini adalah write up ctf Tryhackme 
+Write up ctf Tryhackme 
